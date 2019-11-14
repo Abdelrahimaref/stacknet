@@ -95,16 +95,14 @@ p {
 /********NavBar************/
 .MainPicDiv
 {
-    background-image: -webkit-linear-gradient(rgba(17, 28, 57, 0.80), rgba(39, 59, 123, 0.85)), url('../img/1.jpg');
-    background-attachment: fixed  ;
+    background-image:url('../img/5.jpg');
     background-position: center ; 
     background-size: cover ;
     padding-bottom: 195px;
-    clip-path: polygon(0 0, 100% 0, 100% 84%, 0 98%);
 }
 .MainPicDiv2
 {
-    background-image: -webkit-linear-gradient(rgba(17, 28, 57, 0.80), rgba(39, 59, 123, 0.85)), url('../img/1.jpg');
+    background-image:url('../img/5.jpg');
     background-attachment: fixed  ;
     background-position: center ; 
     background-size: cover ;
